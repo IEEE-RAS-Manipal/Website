@@ -36921,22 +36921,24 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 365px;
+    min-height: 373px;
   }
 
   .u-header .u-image-1 {
     width: 340px;
-    margin-top: 35px;
+    margin-top: 170px;
     margin-right: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 65px;
+    margin-top: -272px;
+    margin-left: auto;
   }
 
   .u-header .u-file-icon-1 {
     font-size: calc(1em + 14px);
-    padding: 7px 30px;
+    padding-left: 25px;
+    padding-right: 25px;
   }
 }
  .u-footer {
