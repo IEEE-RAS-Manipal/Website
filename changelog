@@ -1,14 +1,19 @@
 //Website M1
+  > Internal build - alpha release
+
+//Website M2
+  > Development reset from ground up
   > Added new "Home" "Contact" "About" "Blog" pages
   > Added scrolling gallery of latest blog posts
 
-//Website M2
+//Website M2R1
   > Added "Subsystems" and pages for each six subsystem
   > Added "Upcoming Events" to "Home"
   > Added footer
   > Added "Search Bar" to "Header" 
   
 //Website M3
+  > Based on code from M2R1
   > Removed "Blog" - Blog spun-off into independent project at WordPress
   > Fixed media error
   > Added placeholder content to "About"
@@ -29,3 +34,14 @@
   > Added 'Note from Chair & Vice-Chair' to "About"
   > Added placeholder "Search Bar" to 'Header' 
     > Search Bar (alpha) expected functioning release in M3R5
+    
+//Website M3R4
+  > "Search Bar" sub-project development ceased, placeholder search box removed.
+  > Revamped "Home"
+  > Fine-tuned animation in subsystem pages
+  > Fine-tuned animations & design in "Subsystems"
+  > Icons fine-tuned
+  > Updated "Footer"
+  > Refinements & optimizations to mobile & tablet view
+  
+//Website M3R5 > in development 
