@@ -1,1 +1,31 @@
-R3
+//Website M1
+  > Added new "Home" "Contact" "About" "Blog" pages
+  > Added scrolling gallery of latest blog posts
+
+//Website M2
+  > Added "Subsystems" and pages for each six subsystem
+  > Added "Upcoming Events" to "Home"
+  > Added footer
+  > Added "Search Bar" to "Header" 
+  
+//Website M3
+  > Removed "Blog" - Blog spun-off into independent project at WordPress
+  > Fixed media error
+  > Added placeholder content to "About"
+  > Added placeholder content to all subsystem pages
+  > Removed blog post previews from "Home"
+  > Removed non-functional "Search Bar"
+  
+//Website M3R1
+  > Added deeper integration between now-independent "Blog" and Website M3
+
+//Website M3R2
+  > Updated logo in "Header"
+  > Updated E-Mail handler in "Contact"
+  
+//Website M3R3
+  > Added animations throughout the website
+  > Added social-icons to subsystem heads and board in all subsystem pages and "About"
+  > Added 'Note from Chair & Vice-Chair' to "About"
+  > Added placeholder "Search Bar" to 'Header' 
+    > Search Bar (alpha) expected functioning release in M3R5
