@@ -1,16 +1,17 @@
-//Website M1
-  > Internal build - alpha release
+//Wiki M1 - alpha release
+  > Internal build
 
-//Website M2
+//Website M2 - beta release
   > Development reset from ground up
   > Added new "Home" "Contact" "About" "Blog" pages
   > Added scrolling gallery of latest blog posts
 
-//Website M2R1
+//Website M2R1 - 
   > Added "Subsystems" and pages for each six subsystem
   > Added "Upcoming Events" to "Home"
   > Added footer
   > Added "Search Bar" to "Header" 
+  > CMS Search code laid
   
 //Website M3
   > Based on code from M2R1
@@ -19,14 +20,19 @@
   > Added placeholder content to "About"
   > Added placeholder content to all subsystem pages
   > Removed blog post previews from "Home"
-  > Removed non-functional "Search Bar"
+  > Removed non-functional "Search Bar" & CMS Code
+  > Added mobile portrait/landscape & tablet optimized views
+  > Hamburger menu introduced for non-desktop navigation
   
 //Website M3R1
   > Added deeper integration between now-independent "Blog" and Website M3
+  
 
 //Website M3R2
   > Updated logo in "Header"
   > Updated E-Mail handler in "Contact"
+  > Removed hamburger menu from tablet view
+  > New navigation bar for tablet view
   
 //Website M3R3
   > Added animations throughout the website
@@ -44,4 +50,10 @@
   > Updated "Footer"
   > Refinements & optimizations to mobile & tablet view
   
-//Website M3R5 > in development 
+//Website M3R5
+  > Fine-tuned icon animation
+  > Fixed "Contact" page icon error
+  > Updated "Footer"
+  > Optimized subsystem pages for tablets & mobiles
+  
+//Website M4 > in development
